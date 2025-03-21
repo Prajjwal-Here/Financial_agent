@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Financial Agent
+# Financial Analysis Agent
 
 This project is an AI-powered agent inspired by the investment principles of Warren Buffet. It assists users in making informed financial decisions by analyzing market trends, company fundamentals, and other key metrics.
 

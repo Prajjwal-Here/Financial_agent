@@ -14,7 +14,7 @@ This project is an AI-powered agent inspired by the investment principles of War
 
 1. Clone the repository:
   ```bash
-  git clone https://github.com/your-username/Financial_agent.git
+  git clone https://github.com/Prajjwal-Here/Financial_agent.git
   ```
 2. Navigate to the project directory:
   ```bash

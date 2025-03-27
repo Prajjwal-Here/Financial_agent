@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Financial Analysis Agent
 
 This project is an AI-powered agent inspired by the investment principles of Warren Buffet. It assists users in making informed financial decisions by analyzing market trends, company fundamentals, and other key metrics.
@@ -50,4 +49,3 @@ This project is distributed under the [MIT License](LICENSE).
 This tool is for educational purposes only and does not provide financial advice. Always consult a certified financial advisor before making investment decisions.
 =======
 # Financial_agent
->>>>>>> 32cbf19a35dcdd2b697463e6a19877c139bbf716
